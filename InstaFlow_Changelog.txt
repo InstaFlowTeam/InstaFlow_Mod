@@ -1,0 +1,15 @@
+{"version_code":321703945,"content":"
+<p>Update InstaFlow V4.50</p>
+
+
+<li>[Fixed] Counter on the reels</li>
+<li>[Added] Possibility of copying the link of the image a profile image (long press on a photo &gt; Copy Profile Picture URL)</li>
+<li>[Added] Possibility of sharing the link of the image a profile image (long press on a photo &gt; Share Profile Picture URL)</li>
+<li>[Removed] Swipe Share (Enabled by default)</li>
+<li>[Fixed] Performance improvements</li>
+
+
+
+
+","url":"https://marcosshiinaider.tech/instaflow/index.php?/topic/4-instaflow-v45-fix/"
+}
