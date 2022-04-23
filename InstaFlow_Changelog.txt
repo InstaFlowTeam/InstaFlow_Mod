@@ -22,7 +22,6 @@
 
 --------------------------------------
 
-
 <li>Opção de autoplay em vídeos no feed</li>
 <li>Tradução de envio de mensagens no DM</li>
 <li>Opção de desabilitar passar stories automaticamente</li>
@@ -42,5 +41,5 @@
 <li>Copiar Legenda</li>
 <li>Preview e download de foto de perfil</li>
 
-","url":"https://t.me/Instaflow_ofc"
+","url":"https://t.me/instamods_ofc"
 }
