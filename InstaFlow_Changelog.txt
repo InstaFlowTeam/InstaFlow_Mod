@@ -1,45 +1,45 @@
 {"version_code":357333225,"content":"
 <p>Update InstaFlow V6.0</p>
 
-Option to autoplay videos in feed
-Translation of sending messages in DM
-Option to disable automatically passing stories
-Start stories with sound
-Download IGTV
-Improved photo and video quality
-Disable ads
-Improved app opening delay
-1-minute stories option
-Option to hide stories from feed
-InstaFlow Settings menu translation
-Translation of comments
-Copy Bio
-Download profile picture
-Follow You option
-Change fonts
-Copy Legend
-Preview and download profile picture
+<li>Option to autoplay videos in feed</li>
+<li>Translation of sending messages in DM</li>
+<li>Option to disable automatically passing stories</li>
+<li>Start stories with sound</li>
+<li>Download IGTV</li>
+<li>Improved photo and video quality</li>
+<li>Disable ads</li>
+<li>Improved app opening delay</li>
+<li>1-minute stories option</li>
+<li>Option to hide stories from feed</li>
+<li>InstaFlow Settings menu translation</li>
+<li>Translation of comments</li>
+<li>Copy Bio</li>
+<li>Download profile picture</li>
+<li>Follow You option</li>
+<li>Change fonts</li>
+<li>Copy Legend</li>
+<li><li>Preview and download profile picture</li>
 
 --------------------------------------
 
-Opção de autoplay em vídeos no feed
-Tradução de envio de mensagens no DM
-Opção de desabilitar passar stories automaticamente
-Iniciar stories com som
-Download IGTV
-Melhoria de qualidade de fotos e vídeos
-Desabilitar anúncios
-Melhoria no delay de abertura do app
-Opção de stories de 1 minuto
-Opção de ocultar stories do feed
-Tradução do menu do InstaFlow Settings
-Tradução de comentários
-Copiar Bio
-Baixar foto de perfil
-Opção de Follow You
-Trocar fontes
-Copiar Legenda
-Preview e download de foto de perfil
+<li>Opção de autoplay em vídeos no feed</li>
+<li>Tradução de envio de mensagens no DM</li>
+<li>Opção de desabilitar passar stories automaticamente</li>
+<li>Iniciar stories com som</li>
+<li>Download IGTV</li>
+<li>Melhoria de qualidade de fotos e vídeos</li>
+<li>Desabilitar anúncios</li>
+<li>Melhoria no delay de abertura do app</li>
+<li>Opção de stories de 1 minuto</li>
+<li>Opção de ocultar stories do feed</li>
+<li>Tradução do menu do InstaFlow Settings</li>
+<li>Tradução de comentários</li>
+<li>Copiar Bio</li>
+<li>Baixar foto de perfil</li>
+<li>Opção de Follow You</li>
+<li>Trocar fontes</li>
+<li>Copiar Legenda</li>
+<li>Preview e download de foto de perfil</li>
 
 ","url":"https://t.me/instamods_ofc"
 }
