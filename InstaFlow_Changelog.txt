@@ -1,4 +1,4 @@
-{"version_code":357333225,"content":"
+{"version_code":348183229,"content":"
 <p>Update InstaFlow V6.0</p>
 
 <li>Option to autoplay videos in feed</li>
@@ -19,6 +19,28 @@
 <li>Change fonts</li>
 <li>Copy Legend</li>
 <li>Preview and download profile picture</li>
+
+--------------------------------------
+
+
+<li>Opção de autoplay em vídeos no feed</li>
+<li>Tradução de envio de mensagens no DM</li>
+<li>Opção de desabilitar passar stories automaticamente</li>
+<li>Iniciar stories com som</li>
+<li>Download IGTV</li>
+<li>Melhoria de qualidade de fotos e vídeos</li>
+<li>Desabilitar anúncios</li>
+<li>Melhoria no delay de abertura do app</li>
+<li>Opção de stories de 1 minuto</li>
+<li>Opção de ocultar stories do feed</li>
+<li>Tradução do menu do InstaFlow Settings</li>
+<li>Tradução de comentários</li>
+<li>Copiar Bio</li>
+<li>Baixar foto de perfil</li>
+<li>Opção de Follow You</li>
+<li>Trocar fontes</li>
+<li>Copiar Legenda</li>
+<li>Preview e download de foto de perfil</li>
 
 ","url":"https://t.me/Instaflow_ofc"
 }
