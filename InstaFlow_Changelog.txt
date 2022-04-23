@@ -1,45 +1,21 @@
-{"version_code":00000000,"content":"
-<p>Update InstaFlow V6.0</p>
+{"version_code":323603805,"content":"
+<p>Update InstaFlow V6.00</p>
 
-<li>Option to autoplay videos in feed</li>
-<li>Translation of sending messages in DM</li>
-<li>Option to disable automatically passing stories</li>
-<li>Start stories with sound</li>
-<li>Download IGTV</li>
-<li>Improved photo and video quality</li>
-<li>Disable ads</li>
-<li>Improved app opening delay</li>
-<li>1-minute stories option</li>
-<li>Option to hide stories from feed</li>
-<li>InstaFlow Settings menu translation</li>
-<li>Translation of comments</li>
-<li>Copy Bio</li>
-<li>Download profile picture</li>
-<li>Follow You option</li>
-<li>Change fonts</li>
-<li>Copy Legend</li>
-<li><li>Preview and download profile picture</li>
 
---------------------------------------
+<li>New Based on 226.1.0.16.117 (PlayStore)</li>
+<li>[Added] Option - Enable video autoplay</li>
+<li>[Added] Translator of own messages</li>
+<li>[Added] Option - Disable stories autoskip</li>
+<li>[Added] Option - Play stories always with sound</li>
+<li>[Added] Item to download IGTV videos</li>
+<li>[Improved] Photos in max quality</li>
+<li>[Improved] Disable ads (ads are now hidden in feed, stories and reels)</li>
+<li>[Improved] Delay opening the app</li>
+<li>[Change] The option to increase the limit of the stories is now 1 minute</li>
+<li>[Removed] Option - Hide stories in the feed</li>
 
-<li>Opção de autoplay em vídeos no feed</li>
-<li>Tradução de envio de mensagens no DM</li>
-<li>Opção de desabilitar passar stories automaticamente</li>
-<li>Iniciar stories com som</li>
-<li>Download IGTV</li>
-<li>Melhoria de qualidade de fotos e vídeos</li>
-<li>Desabilitar anúncios</li>
-<li>Melhoria no delay de abertura do app</li>
-<li>Opção de stories de 1 minuto</li>
-<li>Opção de ocultar stories do feed</li>
-<li>Tradução do menu do InstaFlow Settings</li>
-<li>Tradução de comentários</li>
-<li>Copiar Bio</li>
-<li>Baixar foto de perfil</li>
-<li>Opção de Follow You</li>
-<li>Trocar fontes</li>
-<li>Copiar Legenda</li>
-<li>Preview e download de foto de perfil</li>
 
-","url":"https://t.me/instamods_ofc"
+
+
+","url":"https://t.me/instamods_ofc/216"
 }
