@@ -1,7 +1,6 @@
 {"version_code":357333225,"content":"
 <p>Update InstaFlow V6.0</p>
 
-
 <li>Option to autoplay videos in feed</li>
 <li>Translation of sending messages in DM</li>
 <li>Option to disable automatically passing stories</li>
@@ -20,9 +19,6 @@
 <li>Change fonts</li>
 <li>Copy Legend</li>
 <li>Preview and download profile picture</li>
-
-
-
 
 ","url":"https://t.me/Instaflow_ofc"
 }
