@@ -1,4 +1,4 @@
-{"version_code":357333225,"content":"
+{"version_code":00000000,"content":"
 <p>Update InstaFlow V6.0</p>
 
 <li>Option to autoplay videos in feed</li>
