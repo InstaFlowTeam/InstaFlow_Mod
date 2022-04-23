@@ -1,8 +1,8 @@
 {"version_code":357333225,"content":"
 <p>Update InstaFlow V6.0</p>
 
-<li>Option to autoplay videos in feed</li>
-<li>Translation of sending messages in DM</li>
+Option to autoplay videos in feed
+Translation of sending messages in DM
 <li>Option to disable automatically passing stories</li>
 <li>Start stories with sound</li>
 <li>Download IGTV</li>
