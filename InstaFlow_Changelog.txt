@@ -3,18 +3,6 @@
 
 
 <li>Some bugs fixed</li>
-<li>New Based on 226.1.0.16.117 (PlayStore)</li>
-<li>[Added] Option - Enable video autoplay</li>
-<li>[Added] Translator of own messages</li>
-<li>[Added] Option - Disable stories autoskip</li>
-<li>[Added] Option - Play stories always with sound</li>
-<li>[Added] Item to download IGTV videos</li>
-<li>[Improved] Photos in max quality</li>
-<li>[Improved] Disable ads (ads are now hidden in feed, stories and reels)</li>
-<li>[Improved] Delay opening the app</li>
-<li>[Change] The option to increase the limit of the stories is now 1 minute</li>
-<li>[Removed] Option - Hide stories in the feed</li>
-
 
 
 
