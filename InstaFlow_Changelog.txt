@@ -3,6 +3,7 @@
 
 
 <li>Some bugs fixed</li>
+<li>Correção de bugs</li>
 
 
 
