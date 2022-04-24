@@ -1,5 +1,5 @@
 {"version_code":323603806,"content":"
-<p>Update InstaFlow V6.5</p>
+<p>Update InstaFlow V6.50</p>
 
 
 <li>Some bugs fixed</li>
