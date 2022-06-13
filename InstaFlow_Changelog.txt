@@ -1,11 +1,20 @@
-{"version_code":323603806,"content":"
-<p>Update InstaFlow V6.50</p>
+{"version_code":363605018,"content":"
+<p>Update InstaFlow V7.00</p>
+<p>Mod by @Marcoshiinaider</p>
 
 
-<li>Some bugs fixed</li>
-<li>Correção de bugs</li>
+<li>New Based on 236.0.0.20.109 (PlayStore)</li>
+<li>[Added] Option to cut downloads by subfolders</li>
+<li>[Added] Option - Enable messaging tab</li>
+<li>[Added] Option - New story design</li>
+<li>[Added] Option - Download icon on feed posts</li>
+<li>[Added] Option - disable DM messages</li>
+<li>[Added] Option - Possibility to translate the messages sent by the DM</li>
+<li>[Improved] Small redesign in InstaFlow settings</li>
+<li>[Removed] Option - Change the app font</li>
 
 
 
-","url":"https://t.me/instamods_ofc/216"
+
+","url":"https://t.me/instamods_ofc/249"
 }
