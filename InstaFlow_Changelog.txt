@@ -2,16 +2,19 @@
 <p>Update InstaFlow V7.50</p>
 <p>Mod by @Marcoshiinaider</p>
 
+
 <li>New Based on 236.0.0.20.109 (PlayStore)</li>
 <li>[Fixed] Bug in stories pinned</li>
 <li>[Fixed] Download Reels (Button was not displayed)</li>
 <li>[Fixed] Developer mode(No more numbers) [Credits to BSEWAMODS and Adalberto]</li>
 <li>[Readded] InstaFlow Menu translated into Spanish or Portuguese</li>
---
-<li><li>[Corrigido] Bug nas histórias fixadas</li>
+
+<li>[Corrigido] Bug nas histórias fixadas</li>
 <li>[Corrigido] Downlaod de reels (o botão não foi exibido)</li>
 <li>[Corrigido] Modo de desenvolvedor (descriptografado) Créditos a BSEWAMODS e Adalberto</li>
 <li>[Adicionado] Menu InstaFlow traduzido para espanhol ou português</li>
+
+
 
 ","url":"https://t.me/instamods_ofc/257"
 }
