@@ -1,18 +1,31 @@
 {"version_code":363605019,"content":"
-<p>Update InstaFlow V7.50</p>
-<p>Mod by @Marcoshiinaider</p>
+<p>Update InstaFlow V8.00</p>
 
 
-<li>New Based on 236.0.0.20.109 (PlayStore)</li>
-<li>[Fixed] Bug in stories pinned</li>
-<li>[Fixed] Download Reels (Button was not displayed)</li>
-<li>[Fixed] Developer mode(No more numbers) [Credits to BSEWAMODS and Adalberto]</li>
-<li>[Readded] InstaFlow Menu translated into Spanish or Portuguese</li>
+<li>New Based on 241.1.0.18.114 (Playstore)</li>
+<li>[Added] Highlights Downloading</li>
+<li>[Added] Option - Possibility to change the theme of the InstaFlow app (Beta)</li>
+<li>[Added] Option - Option to change history font style (CosmopolitanScriptRegular)</li>
+<li>[Added] Links in comments enabled</li>
+<li>[Added] Ability to add a wallpaper in the DM</li>
+<li>[Fixed] The images you downloaded were saved in webp</li>
+<li>[Removed] Option - Disable swipe to navigate</li>
+<li>[Removed] Option - Disable stories autoskip</li>
+<li>[Removed] Possibility of Block the app</li>
+<li>Bug fixes</li>
 
-<li>[Corrigido] Bug nas histórias fixadas</li>
-<li>[Corrigido] Downlaod de reels (o botão não foi exibido)</li>
-<li>[Corrigido] Modo de desenvolvedor (descriptografado) Créditos a BSEWAMODS e Adalberto</li>
-<li>[Adicionado] Menu InstaFlow traduzido para espanhol ou português</li>
+<li>Novo Baseado em 241.1.0.18.114 (Playstore)</li>
+<li>[Adicionado] Download de destaques</li>
+<li>Opção [Adicionada] - Possibilidade de alterar o tema do aplicativo InstaFlow (Beta)</li>
+<li>Opção [Adicionada] - Opção para alterar o estilo da fonte do story (CosmopolitanScriptRegular)</li>
+<li>[Adicionado] Links nos comentários ativados</li>
+<li>[Adicionado] Capacidade de adicionar um papel de parede no DM</li>
+<li>[Corrigido] As imagens que você baixou foram salvas como .webp para .jpeg</li>
+<li>Opção [Removido] - Desative o deslize para navegar</li>
+<li>Opção [Removido] - Desativar salto automático de stories</li>
+<li>[Removido] Possibilidade de Bloquear o aplicativo</li>
+<li>Correções de bugs‌‌</li>
+
 
 
 
