@@ -1,33 +1,19 @@
-{"version_code":364105346,"content":"
-<p>Update InstaFlow V8.00</p>
+{"version_code":364105347,"content":"
+<p>Update InstaFlow V8.50</p>
 
 
-<li>New Based on 241.1.0.18.114 (Playstore)</li>
-<li>[Added] Highlights Downloading</li>
-<li>[Added] Option - Possibility to change the theme of the InstaFlow app (Beta)</li>
-<li>[Added] Option - Option to change history font style (CosmopolitanScriptRegular)</li>
-<li>[Added] Links in comments enabled</li>
-<li>[Added] Ability to add a wallpaper in the DM</li>
-<li>[Fixed] The images you downloaded were saved in webp</li>
-<li>[Removed] Option - Disable swipe to navigate</li>
-<li>[Removed] Option - Disable stories autoskip</li>
-<li>[Removed] Possibility of Block the app</li>
-<li>Bug fixes</li>
+<li>[Fixed] Icons in the DM are not displayed with dark themes</li>
+<li>[Added] New fonts for stories (Montserrat-Bold and IOS + EMOJIS)</li>
+<li>Verification Badge Server Improvements</li>
+<li>[NOTE] The weight of the application is due to the source IOS + EMOJI'S</li>
 
-<li>Novo Baseado em 241.1.0.18.114 (Playstore)</li>
-<li>[Adicionado] Download de destaques</li>
-<li>Opção [Adicionada] - Possibilidade de alterar o tema do aplicativo InstaFlow (Beta)</li>
-<li>Opção [Adicionada] - Opção para alterar o estilo da fonte do story (CosmopolitanScriptRegular)</li>
-<li>[Adicionado] Links nos comentários ativados</li>
-<li>[Adicionado] Capacidade de adicionar um papel de parede no DM</li>
-<li>[Corrigido] As imagens que você baixou foram salvas como .webp para .jpeg</li>
-<li>Opção [Removido] - Desative o deslize para navegar</li>
-<li>Opção [Removido] - Desativar salto automático de stories</li>
-<li>[Removido] Possibilidade de Bloquear o aplicativo</li>
-<li>Correções de bugs‌‌</li>
+<li>[Corrigido] Os ícones no DM não são exibidos com temas escuros</li>
+<li>[Adicionado] Novas fontes para histórias (Montserrat-Bold e IOS + EMOJIS)</li>
+<li>Melhorias no servidor do emblema de verificação</li>
+<li>[NOTA] O peso do aplicativo se deve ao IOS de origem + EMOJI'S</li>
 
 
 
 
-","url":"https://t.me/instamods_ofc/269"
+","url":"https://t.me/instamods_ofc/276"
 }
