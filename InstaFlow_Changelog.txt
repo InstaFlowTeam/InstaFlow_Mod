@@ -1,19 +1,18 @@
-{"version_code":364105347,"content":"
-<p>Update InstaFlow V8.50</p>
+{"version_code":365705408,"content":"
+<p>InstaFlow Update V9.00</p>
 
 
-<li>[Fixed] Icons in the DM are not displayed with dark themes</li>
-<li>[Added] New fonts for stories (Montserrat-Bold and IOS + EMOJIS)</li>
-<li>Verification Badge Server Improvements</li>
-<li>[NOTE] The weight of the application is due to the source IOS + EMOJI'S</li>
-
-<li>[Corrigido] Os ícones no DM não são exibidos com temas escuros</li>
-<li>[Adicionado] Novas fontes para histórias (Montserrat-Bold e IOS + EMOJIS)</li>
-<li>Melhorias no servidor do emblema de verificação</li>
-<li>[NOTA] O peso do aplicativo se deve ao IOS de origem + EMOJI'S</li>
-
+<li>New Based on 257.1.0.16.110 (Playstore)</li>
+<li>[Improved] Load custom font for stories (Changes applied to third font)</li>
+<li>[Removed] Download icon in post (To download select the three points > Instaflow options > Download)</li>
+<li>[Added] New option to hide stories in feed</li>
+<li>[Added] New option to disable automatic skipping of stories</li>
+<li>[Added] New options for media quality (Instagram compresses the quality of images, these mods may not work)</li>
+<li>[Added] New option to select a custom path for downloads</li>
+<li>NOTE: Some options were removed within the mod, since we want to focus on useful functions for everyone, thanks for your understanding :)</li>
 
 
 
-","url":"https://t.me/instamods_ofc/276"
+
+","url":"https://t.me/instaflowupdates/22"
 }
