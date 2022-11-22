@@ -1,4 +1,4 @@
-{"version_code":365705408,"content":"
+{"version_code":365705409,"content":"
 <p>InstaFlow Update V9.50 [FIX]</p>
 
 
@@ -11,5 +11,5 @@
 
 
 
-","url":"https://t.me/instaflowupdates/22"
+","url":"https://t.me/instaflowupdates/25"
 }
