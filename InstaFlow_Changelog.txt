@@ -1,15 +1,12 @@
 {"version_code":365705408,"content":"
-<p>InstaFlow Update V9.00</p>
+<p>InstaFlow Update V9.50 [FIX]</p>
 
 
 <li>New Based on 257.1.0.16.110 (Playstore)</li>
-<li>[Improved] Load custom font for stories (Changes applied to third font)</li>
-<li>[Removed] Download icon in post (To download select the three points > Instaflow options > Download)</li>
-<li>[Added] New option to hide stories in feed</li>
-<li>[Added] New option to disable automatic skipping of stories</li>
-<li>[Added] New options for media quality (Instagram compresses the quality of images, these mods may not work)</li>
-<li>[Added] New option to select a custom path for downloads</li>
-<li>NOTE: Some options were removed within the mod, since we want to focus on useful functions for everyone, thanks for your understanding :)</li>
+<li>[Fixed] Download icon in reels was not displayed on some devices</li>
+<li>[Fixed] Option - Hide Store Icon</li>
+<li>[Fixed] Copy link and share options were not displayed in the stories menu</li>
+<li>[Fixed] The option to place a custom font is more stable</li>
 
 
 
