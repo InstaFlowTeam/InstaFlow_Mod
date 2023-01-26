@@ -1,5 +1,5 @@
 {"version_code":366409693,"content":"
-<p>InstaFlow Update V10.00</p>
+<p>InstaFlow Update V10.50</p>
 
 
 <li>New Based on 264.0.0.22.106 (Playstore)</li>
