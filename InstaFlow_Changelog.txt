@@ -1,5 +1,5 @@
-{"version_code":366409693,"content":"
-<p>InstaFlow Update V10.50</p>
+{"version_code":366409694,"content":"
+<p>InstaFlow Update V10.50 [FIX]</p>
 
 
 <li>New Based on 264.0.0.22.106 (Playstore)</li>
@@ -9,5 +9,5 @@
 
 
 
-","url":"https://t.me/instaflowupdates"
+","url":"https://t.me/instaflowupdates/37"
 }
