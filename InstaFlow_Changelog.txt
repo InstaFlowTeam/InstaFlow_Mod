@@ -1,13 +1,21 @@
-{"version_code":366409690,"content":"
-<p>InstaFlow Update V10.50 [FIX]</p>
+{"version_code":366409695,"content":"
+<p>InstaFlow Update V11.00 (Rebuilt)</p>
 
 
-<li>[Fixed] Unexpected crash on some devices, specifically Android (5, 6, 7, 8)</li>
-<li>[Correção] Falha inesperada em alguns dispositivos, especificamente para Android (5, 6, 7, 8)</li>
+<li>New Based on 264.0.0.22.106 (Playstore)</li>
+<li>[changed - Important] Developer signature has changed, can't install above old versions</li>
+<li>[Re-added] Download icon under posts</li>
+<li>[Added] Option to copy post description (Three dots > InstaFlow Options > Copy Post Description)</li>
+<li>[Added] Option to translate post description (Three dots > InstaFlow Options > Translate Post Description)</li>
+<li>[Added] Possibility of zooming in on post photos with a long touch</li>
+<li>[Fixed] Download button on reels was not showing on some devices</li>
+<li>[Improved] Now you don't need an internet connection to use developer mode [Thanks to @BSEWAMODS]</li>
+<li>[Removed] Option to change the theme of the application</li>
+<li>[Removed] Rectangular Stories Option</li>
 
 
 
 
 
-","url":"https://t.me/instaflowupdates/37"
+","url":"https://t.me/instaflowupdates"
 }
