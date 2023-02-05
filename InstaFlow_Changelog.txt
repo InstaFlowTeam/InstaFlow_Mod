@@ -1,4 +1,4 @@
-{"version_code":306409695,"content":"
+{"version_code":366409695,"content":"
 <p>InstaFlow Update V11.00 (Rebuilt)</p>
 
 
@@ -17,5 +17,5 @@
 
 
 
-","url":"https://t.me/instaflowupdates"
+","url":"https://youtu.be/0KpsswbYm-4"
 }
